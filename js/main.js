@@ -6,9 +6,9 @@ const app = new Vue (
         data: {
             newToDo: "",
             toDos: [
-                "fare i compiti",
-                "fare la spesa",
-                "fare il bucato",
+                "Fare i compiti",
+                "Fare la spesa",
+                "Fare il bucato",
             ],
         },
         methods: {
